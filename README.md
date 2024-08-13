@@ -3,7 +3,7 @@ ToDo List made with React, HTML, JavaScript, CSS
 To run this:
   - Download this code
   - Open this locally
-  - open terminal and cd to my-react-app
+  - Open terminal and cd to my-react-app
   - npm install
   - npm start
 
